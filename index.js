@@ -23,7 +23,11 @@ function overwriteBestCustomer(){
 }
 
 
+const leastFavoriteCustomer = "";
 
-
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = "new value";
+  
+}
 
 
