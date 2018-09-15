@@ -9,7 +9,8 @@ function upperCaseCustomerName(){
 
 
 function  setBestCustomer(){
- upperCaseCustomerName = 'not bob'; 
+ let customerName = 'not bob';
+ return customerName;
 
 
   
