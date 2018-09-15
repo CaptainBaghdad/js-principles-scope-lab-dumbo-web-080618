@@ -17,3 +17,7 @@ function  setBestCustomer(){
 }
 
 
+function overwriteBestCustomer(){
+  
+  bestCustomer = "what ever I want";
+}
